@@ -2,3 +2,5 @@
 
 - Helvetica Neue
 - Antipasto
+- Avenir
+- Clasta

@@ -1,6 +1,6 @@
-#Webfonts
+## Webfonts
 
-- Helvetica Neue
 - Antipasto
 - Avenir
 - Clasta
+- Helvetica Neue

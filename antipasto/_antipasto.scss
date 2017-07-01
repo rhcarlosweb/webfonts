@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Antipasto';
+    src: url('assets/fonts/antipasto/Antipasto.eot');
+    src: url('assets/fonts/antipasto/Antipasto.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/antipasto/Antipasto.woff2') format('woff2'),
+    url('assets/fonts/antipasto/Antipasto.woff') format('woff'),
+    url('assets/fonts/antipasto/Antipasto.ttf') format('truetype'),
+    url('assets/fonts/antipasto/Antipasto.svg#Antipasto') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+// mixin
+@mixin antipasto() {
+    font-weight: 400;
+    font-family: 'Antipasto';
+}

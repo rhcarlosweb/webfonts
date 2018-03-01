@@ -85,7 +85,7 @@
     }
 
     return array_filter( $result );
-  }   //function
+  } 
 
   date_default_timezone_set( 'UTC' );
 

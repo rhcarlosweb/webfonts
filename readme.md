@@ -1,6 +1,8 @@
 ## Webfonts
 
 - Antipasto
+- Aristelle
+- Din
 - Avenir
 - Averta
 - Clasta

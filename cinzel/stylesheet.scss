@@ -1,0 +1,25 @@
+$cinzelPath : 'assets/fonts/cinzel/';
+
+@font-face {
+    font-family : 'cinzel';
+    src         : url('#{$cinzelPath}cinzel-regular-webfont.eot');
+    src         : url('#{$cinzelPath}cinzel-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('#{$cinzelPath}cinzel-regular-webfont.woff2') format('woff2'),
+    url('#{$cinzelPath}cinzel-regular-webfont.woff') format('woff'),
+    url('#{$cinzelPath}cinzel-regular-webfont.ttf') format('truetype'),
+    url('#{$cinzelPath}cinzel-regular-webfont.svg#cinzelregular') format('svg');
+    font-weight : normal;
+    font-style  : normal;
+}
+
+@font-face {
+    font-family : 'cinzel';
+    src         : url('#{$cinzelPath}cinzel-bold-webfont.eot');
+    src         : url('#{$cinzelPath}cinzel-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('#{$cinzelPath}cinzel-bold-webfont.woff2') format('woff2'),
+    url('#{$cinzelPath}cinzel-bold-webfont.woff') format('woff'),
+    url('#{$cinzelPath}cinzel-bold-webfont.ttf') format('truetype'),
+    url('#{$cinzelPath}cinzel-bold-webfont.svg#cinzelbold') format('svg');
+    font-weight : 700;
+    font-style  : normal;
+}

@@ -7,6 +7,7 @@
 - Cinzel
 - Clasta
 - Din
+- Gotham
 - Helvetica Neue
 - Pf Beau Sans Pro
 - Proxima Nova

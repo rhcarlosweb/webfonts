@@ -1,0 +1,116 @@
+$font-gordita-path : "./" !default;
+
+@mixin gotham() {
+    font-family : 'GorditaWebFont', arial, sans-serif;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-ThinItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-Thin.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-Light.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-LightItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-Regular.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-RegularItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-RegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-Medium.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-MediumItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-BoldItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-Bold.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gordita Ultra';
+    src: url('#{$font-gordita-path}Gordita-Ultra.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Ultra.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gordita Ultra';
+    src: url('#{$font-gordita-path}Gordita-UltraItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-UltraItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-Black.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GorditaWebFont';
+    src: url('#{$font-gordita-path}Gordita-BlackItalic.woff2') format('woff2'),
+        url('#{$font-gordita-path}Gordita-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}

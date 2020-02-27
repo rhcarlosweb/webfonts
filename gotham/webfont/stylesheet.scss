@@ -85,7 +85,7 @@ $font-gotham-path : "./" !default;
 }
 
 @font-face {
-    font-family : 'Gotham-Ultra';
+    font-family : 'GothamWebFont';
     src         : url('#{$font-gotham-path}Gotham-Ultra.woff2') format('woff2'),
     url('#{$font-gotham-path}Gotham-Ultra.woff') format('woff');
     font-weight : 800;

@@ -2,11 +2,12 @@
 
 - Antipasto
 - Aristelle
-- Avenir
 - Averta
+- Axiforma
 - Cinzel
 - Clasta
 - Din
+- Gordita
 - Gotham
 - Helvetica Neue
 - Pf Beau Sans Pro

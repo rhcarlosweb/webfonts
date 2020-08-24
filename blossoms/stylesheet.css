@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Blossoms Ornaments';
+    src: url('BlossomsOrnaments.woff2') format('woff2'),
+        url('BlossomsOrnaments.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blossoms';
+    src: url('BlossomsBlack.woff2') format('woff2'),
+        url('BlossomsBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blossoms';
+    src: url('BlossomsLight.woff2') format('woff2'),
+        url('BlossomsLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blossoms';
+    src: url('BlossomsRegular.woff2') format('woff2'),
+        url('BlossomsRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blossoms';
+    src: url('BlossomsBold.woff2') format('woff2'),
+        url('BlossomsBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
